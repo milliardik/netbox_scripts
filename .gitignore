@@ -1,0 +1,8 @@
+*yaml
+
+config.py
+
+venv/
+examples/
+__pycache__/
+prepea_data.yaml
