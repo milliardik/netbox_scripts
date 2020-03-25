@@ -2,7 +2,9 @@
 
 config.py
 
+.idea/
 venv/
 examples/
 __pycache__/
 prepea_data.yaml
+*.txt
